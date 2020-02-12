@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Xaroun/udemy-react-frontend.svg?branch=master)](https://travis-ci.org/Xaroun/udemy-react-frontend)
+[![Build Status](https://travis-ci.org/matty-matt/udemy-react-frontend.svg?branch=master)](https://travis-ci.org/matty-matt/udemy-react-frontend)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
